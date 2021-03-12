@@ -3,7 +3,7 @@ package ru.terra.twochsaver.ui.db.repos;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 import ru.terra.twochsaver.shared.ThreadState;
-import ru.terra.twochsaver.shared.entity.TwochThread;
+import ru.terra.twochsaver.ui.db.entity.TwochThread;
 
 import java.util.List;
 
