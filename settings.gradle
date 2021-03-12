@@ -1,0 +1,7 @@
+rootProject.name = 'twochsaver'
+include ':shared'
+include ':downloader'
+include ':scheduler'
+include ':ui'
+
+
