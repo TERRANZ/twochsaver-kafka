@@ -1,0 +1,16 @@
+ru/terra/twochsaver/shared/ThreadState.java
+ ru.terra.twochsaver.shared.ThreadState
+ru/terra/twochsaver/shared/dto/TwochThreadDto.java
+ ru.terra.twochsaver.shared.dto.TwochThreadDto
+ru/terra/twochsaver/shared/entity/TwochFile.java
+ ru.terra.twochsaver.shared.entity.TwochFile
+ru/terra/twochsaver/shared/DownloadState.java
+ ru.terra.twochsaver.shared.DownloadState
+ru/terra/twochsaver/shared/dto/TwochFileDto.java
+ ru.terra.twochsaver.shared.dto.TwochFileDto
+ru/terra/twochsaver/shared/entity/TwochThread.java
+ ru.terra.twochsaver.shared.entity.TwochThread
+ru/terra/twochsaver/shared/DownloadEntity.java
+ ru.terra.twochsaver.shared.DownloadEntity
+ru/terra/twochsaver/shared/QueueConstants.java
+ ru.terra.twochsaver.shared.QueueConstants
