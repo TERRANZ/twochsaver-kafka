@@ -2,7 +2,7 @@ package ru.terra.twochsaver.ui.service;
 
 import org.springframework.stereotype.Service;
 import ru.terra.twochsaver.shared.ThreadState;
-import ru.terra.twochsaver.ui.db.entity.TwochThread;
+import ru.terra.twochsaver.shared.entity.TwochThread;
 import ru.terra.twochsaver.ui.db.repos.TwochThreadRepo;
 import ru.terra.twochsaver.ui.exception.AlreadyAddedException;
 

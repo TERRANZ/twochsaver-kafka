@@ -5,8 +5,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.java.Log;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
-import ru.terra.twochsaver.scheduler.db.entity.TwochFile;
-import ru.terra.twochsaver.scheduler.db.entity.TwochThread;
 import ru.terra.twochsaver.scheduler.db.repos.TwochFileRepo;
 import ru.terra.twochsaver.scheduler.db.repos.TwochThreadRepo;
 import ru.terra.twochsaver.scheduler.exception.UrlNotFoundException;
@@ -16,6 +14,8 @@ import ru.terra.twochsaver.shared.DownloadEntity;
 import ru.terra.twochsaver.shared.DownloadState;
 import ru.terra.twochsaver.shared.ThreadState;
 import ru.terra.twochsaver.shared.dto.TwochFileDto;
+import ru.terra.twochsaver.shared.entity.TwochFile;
+import ru.terra.twochsaver.shared.entity.TwochThread;
 
 import java.io.IOException;
 import java.util.List;

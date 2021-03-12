@@ -1,4 +1,4 @@
-package ru.terra.twochsaver.ui.db.entity;
+package ru.terra.twochsaver.shared.entity;
 
 import ru.terra.twochsaver.shared.DownloadState;
 

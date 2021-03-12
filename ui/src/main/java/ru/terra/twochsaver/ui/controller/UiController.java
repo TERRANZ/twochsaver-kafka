@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import ru.terra.twochsaver.ui.db.entity.TwochThread;
+import ru.terra.twochsaver.shared.entity.TwochThread;
 import ru.terra.twochsaver.ui.exception.AlreadyAddedException;
 import ru.terra.twochsaver.ui.service.UiService;
 
